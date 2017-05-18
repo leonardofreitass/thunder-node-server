@@ -1,2 +1,171 @@
 [
+  {
+    "key": "shoot_igor",
+    "name": "Shoot Igor",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 500
+      },
+      {
+        "command": "u",
+        "ms": 300
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_fabricio",
+    "name": "Shoot Fabricio",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 2300
+      },
+      {
+        "command": "u",
+        "ms": 600
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_moises",
+    "name": "Shoot Moisés",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 3000
+      },
+      {
+        "command": "u",
+        "ms": 600
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_leonardo",
+    "name": "Shoot Leonardo",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 6000
+      },
+      {
+        "command": "u",
+        "ms": 300
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_door",
+    "name": "Shoot Door",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 1300
+      },
+      {
+        "command": "u",
+        "ms": 1500
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_bathroom",
+    "name": "Shoot Bathroom",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 1000
+      },
+      {
+        "command": "u",
+        "ms": 1500
+      },
+      {
+        "command": "f"
+      }
+    ]
+  },
+  {
+    "key": "shoot_everyone",
+    "name": "Shoot Everyone",
+    "chain": [
+      {
+        "command": "p"
+      },
+      {
+        "command": "r",
+        "ms": 500
+      },
+      {
+        "command": "u",
+        "ms": 300
+      },
+      {
+        "command": "f"
+      },
+      {
+        "command": "r",
+        "ms": 1800
+      },
+      {
+        "command": "u",
+        "ms": 300
+      },
+      {
+        "command": "f"
+      },
+      {
+        "command": "r",
+        "ms": 500
+      },
+      {
+        "command": "f"
+      },
+      {
+        "command": "r",
+        "ms": 3000
+      },
+      {
+        "command": "d",
+        "ms": 300
+      },
+      {
+        "command": "f"
+      }
+    ]
+  }
 ]
