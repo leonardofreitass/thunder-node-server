@@ -1,0 +1,13 @@
+# Node
+node_modules
+npm-debug.log
+
+# Enviroment
+.env
+
+# Log
+all.log
+
+# Webpack
+
+public/js/bundle.js
